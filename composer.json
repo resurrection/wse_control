@@ -1,0 +1,13 @@
+{
+    "name": "resurrection/wse_control",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "minarikede/wowza": "*",
+        "malkusch/php-autoloader": "^1.14"
+    },
+    "require-dev": {
+        "kint-php/kint": "^1.1",
+        "phpunit/phpunit": "^6.1@dev"
+    }
+}
